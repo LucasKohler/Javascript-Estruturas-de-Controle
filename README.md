@@ -1,2 +1,2 @@
 # Javascript-Estruturas-de-Controle
-Arquivos exemplificando estruturar de controle em JavaScript
+Arquivos exemplificando estruturas de controle em JavaScript
